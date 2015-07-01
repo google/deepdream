@@ -1,7 +1,7 @@
 # deepdream
 
 This repository contains IPython Notebook with sample code, complementing 
-Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art [1].
+Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
 
 You can view "dream.ipynb" directly on github, or clone the repository, 
 install dependencies listed in the notebook and play with code locally.
