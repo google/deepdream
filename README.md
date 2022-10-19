@@ -7,7 +7,7 @@ See [original gallery](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQl
 You can view "dream.ipynb" directly on github, or clone the repository, 
 install dependencies listed in the notebook and play with code locally.
 
-It'll be interesting to see what imagery people are able to generate using the described technique. If you post images to Google+, Facebook, or Twitter, be sure to tag them with [#deepdream](https://twitter.com/hashtag/deepdream) so other researchers can check them out too.
+It'll be interesting to see what imagery people are able to generate using the described technique. If you post images to Facebook or Twitter, be sure to tag them with [#deepdream](https://twitter.com/hashtag/deepdream) so other researchers can check them out too.
 
 * [Alexander Mordvintsev](mailto:moralex@google.com)
 * [Michael Tyka](https://www.twitter.com/mtyka)
